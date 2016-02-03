@@ -1,0 +1,28 @@
+name: Just Stuff
+favicon: null
+layout_spectrum: 0.11518342792987823
+typography_spectrum: 0.6535872984677553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8941814901772887
+  lightness: 0.5388038284145296
+  saturation: 0.798376884078607
+  rhythmicContrast: 0.7718406566418707
+purpose: []
